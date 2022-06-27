@@ -1,0 +1,51 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 6,
+    "Button2": 7,
+    "Screen1": 3,
+    "TextInput1": 4,
+    "TextInput2": 5
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "06/27/2022 03:15:48",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 1,
+    "text": 0
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 2,
+    "Button2": 3,
+    "Screen1": 0,
+    "TextInput1": 0,
+    "TextInput2": 1
+  },
+  "ResourcesJsonIndices": {},
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0978075,
+    "ControlCount": {
+      "button": 2,
+      "screen": 1,
+      "text": 2
+    },
+    "DeserializationLoadTime": 1.2330265,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}

@@ -1,0 +1,34 @@
+Screen1 As screen:
+
+    TextInput1 As text:
+        Default: =varA
+        Width: =348
+        X: =99
+        Y: =45
+        ZIndex: =1
+
+    TextInput2 As text:
+        Default: =varB
+        Width: =348
+        X: =99
+        Y: =108
+        ZIndex: =2
+
+    Button1 As button:
+        OnSelect: |-
+            =Set(varA,"test1");
+            Set(varB,"test2");
+        Text: ="OK"
+        X: =99
+        Y: =182
+        ZIndex: =3
+
+    Button2 As button:
+        OnSelect: |-
+            =Set(varA,"");
+            Set(varB,"");
+        Text: ="Clear"
+        X: =287
+        Y: =182
+        ZIndex: =4
+
