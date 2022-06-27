@@ -17,7 +17,7 @@ Screen1 As screen:
     Button1 As button:
         OnSelect: |-
             =Set(varA,"test1");
-            Set(varB,"test2");
+            Set(varB,"");
         Text: ="OK"
         X: =99
         Y: =182
@@ -26,7 +26,7 @@ Screen1 As screen:
     Button2 As button:
         OnSelect: |-
             =Set(varA,"");
-            Set(varB,"");
+            Set(varB,"test2");
         Text: ="Clear"
         X: =287
         Y: =182
